@@ -1,4 +1,4 @@
-#install.packages("mosaic")
+install.packages("mosaic")
 
 library(mosaic)
 library(mosaicData)
